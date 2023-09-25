@@ -1,0 +1,82 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+picture {
+    display: flex;
+    justify-content: center;
+}
+
+picture img {
+    width: 35%;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+p {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+#opciones {
+    text-align: center;
+}
+
+#opciones li {
+    display: inline-block;
+    padding: 50px;
+}
+
+.boton {
+    text-decoration: none;
+    color: #fff;
+    border: 3px solid rgb(54, 217, 95);
+    padding: 15px;
+    border-radius: 100px;
+    display: inline-block;
+}
+
+.boton:hover {
+    background-color: rgb(54, 217, 95);
+    color: #000;
+}
+
+
+.musica {
+    width: 7%;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: rgb(54, 217, 95);
+    ;
+}
+
+.parrafo {
+    color: rgb(54, 217, 95);
+    ;
+}
+
+.titulo {
+    color: rgb(54, 217, 95);
+    ;
+}
+
+.fondo {
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/677/889/desktop-wallpaper-black-stylish-background-green-neon-lines-green-light-effects-abstract-black-backgrounds-with-resolution-2880x1800-high-quality-black-stylish.jpg);
+    
+}
+
+.img-apartados {
+    display: flex;
+    justify-content: left;
+    width: 25%;
+}
